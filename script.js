@@ -203,7 +203,7 @@ lockBtn.addEventListener("click", function () {
 
 
 
-//****************************************** DISPLAY FEATURES ON HOVER ON I BUTTON **********************************************
+//****************************************** DISPLAY FEATURES ON HOVER ON i BUTTON **********************************************
 
 let infoBtn = document.querySelector(".info-container");
 
