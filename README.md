@@ -28,3 +28,7 @@ The project is a to-do-list application that can be used to manage your daily ta
 6. All Tasks with a certain priority color can be viewed by selecting the Priority color from the Priority bar which is placed in the header.
 
 7. Local storage has been implemented to retain the data.
+
+
+**SCREENSHOT OF TO-DO WEB-APP**
+![image](https://user-images.githubusercontent.com/76245508/122409352-b39c1600-cfa0-11eb-9261-57d75f682f28.png)
